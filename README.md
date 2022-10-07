@@ -1,1 +1,2 @@
 # odin-recipes
+After some time of learning Web Development I stumbled upon Odin Project, and woah it has been overwhelming and detailed and this is my first project and I have mixed feeling cos I do not want to mess it up but anyways let us see how it goes. love ya!!!
